@@ -13,5 +13,6 @@ It uses the "Test-Netconnection" command in Windows PowerShell to test the TCP c
 6. kickstart.jumpcloud.com
 7. private-kickstart.jumpcloud.com
 8. s3.amazonaws.com
+9. cdn.pwm.jumpcloud.com
 > Note pwm.jumpcloud.com can not be resolved by public DNS.
 Source [JumpCloud](https://jumpcloud.com/support/agent-networking-and-port-requirements)
